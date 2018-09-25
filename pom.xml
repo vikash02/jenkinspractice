@@ -38,12 +38,7 @@
           <target>1.6</target>
         </configuration>
       </plugin>
-      <plugin>
-        <artifactId>maven-release-plugin</artifactId>
-        <configuration>
-          <autoVersionSubmodules>true</autoVersionSubmodules>
-        </configuration>
-      </plugin>
+n>
 
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
